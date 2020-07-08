@@ -1,2 +1,2 @@
 config:
-  info: config-dev.yml 
+  info: master, config, dev, config-dev.yml version=1
